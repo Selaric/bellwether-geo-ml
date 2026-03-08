@@ -185,6 +185,14 @@ terraform apply -var="project_id=YOUR_GCP_PROJECT"
 
 ---
 
+## Images
+<img width="1786" height="551" alt="image" src="https://github.com/user-attachments/assets/7a20c033-3790-4788-8dbb-47d4f4dad353" />
+
+
+<img width="1817" height="635" alt="image" src="https://github.com/user-attachments/assets/78bc4343-d426-4513-a11c-55bafcb4226e" />
+
+
+
 ## References
 
 - [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/)
