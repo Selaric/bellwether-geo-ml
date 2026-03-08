@@ -1,1 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
 .venv/
+venv/
+dist/
+build/
+.env
+*.pkl
+models/
+.coverage
+coverage.xml
+.pytest_cache/
+.ruff_cache/
+*.log
