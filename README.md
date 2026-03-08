@@ -5,7 +5,8 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)](https://docker.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI](https://github.com/YOUR_USERNAME/bellwether-geo-ml/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/bellwether-geo-ml/actions)
+[![CI](https://github.com/Selaric/bellwether-geo-ml/actions/workflows/ci.yml/badge.svg)](https://github.com/Selaric/bellwether-geo-ml/actions)
+
 
 ---
 
